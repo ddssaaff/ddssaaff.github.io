@@ -5,3 +5,10 @@ h1,h2,h3,h4,h5,h6{
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform:none;
 }
+.bg-primary {
+  background-color: #ff4a4a!important;
+background-image: url("https://www.transparenttextures.com/patterns/argyle.png");
+}
+.text-primary {
+    color: #ff4a4a!important;
+}
